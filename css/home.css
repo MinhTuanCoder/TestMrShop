@@ -613,11 +613,11 @@ section .policy_and_service .content .text_content .title_content{
     position: relative;
     background-attachment: fixed !important;
     color: #363636;
-    background-image: url(/Images/bg_customer_reviews.jpg);
+    background-image: url(../Images/bg_customer_reviews.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(/Images/bg_customer_reviews.jpg);
+
     height: auto;
     width: auto;
 }
@@ -892,7 +892,7 @@ section .policy_and_service .content .text_content .title_content{
 
 /* Start Under footer */
 .under-footer{
-    background-image: url(/Images/sec_store_bg.jpg);
+    background-image: url(../Images/sec_store_bg.jpg);
     background-size: auto auto;
     background-repeat: no-repeat;
     width: 100;
